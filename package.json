@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kamokamocsai/pallida-orientation-exam-retake.git"
+    "url": "git+https://github.com/primerwe/pallida-orientation-exam-retake.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kamokamocsai/pallida-orientation-exam-retake/issues"
+    "url": "https://github.com/primerwe/pallida-orientation-exam-retake/issues"
   },
-  "homepage": "https://github.com/Kamokamocsai/pallida-orientation-exam-retake#readme",
+  "homepage": "https://github.com/primerwe/pallida-orientation-exam-retake#readme",
   "dependencies": {
+    "cors": "^2.8.4",
     "express": "^4.16.2",
     "mysql": "^2.15.0"
   }
