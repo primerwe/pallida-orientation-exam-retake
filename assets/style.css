@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #333;
+}
+
+main {
+  background: #eee;
+  width: 80%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+form, table {
+  padding: 10px;
+}
+
+select, input {
+  margin-left: 10px;
+}
+
+th, td {
+  padding: 5px 10px;
+}
+
+th{
+  text-align: justify;
+}
+
+.btn {
+  width: 15%;
+}
+
+.message, .form, .table{
+  margin: auto;
+}
+
+.red {
+  background: tomato;
+  font-size: 0.8em;
+}
+
+.green {
+  background: limegreen;
+  font-size: 0.8em;
+}
